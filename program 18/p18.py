@@ -1,7 +1,5 @@
 import pandas as pd
 
-from p14 import details
-
 details = {
 
     'Name':['a','b','c','d'],
